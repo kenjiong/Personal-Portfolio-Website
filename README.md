@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# Personal-Portfolio-Website
+# Kenji's Personal Portfolio Website
+
 =======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 62b42bd (initial commit: personal portfolio website setup)
+A visually engaging and interactive website with 3D elements showcasing my personal projects, skills, and experiences. Built entirely using modern front-end technologies for a seamless user experience.
