@@ -51,10 +51,6 @@ const services = [
     title: "Database Management",
     icon: creator,
   },
-  {
-    title: "API Integration",
-    icon: mobile,
-  },
 ];
 
 const technologies = [
@@ -165,8 +161,8 @@ const projects = [
       },
     ],
     image: personalportfoliowebsite,
-    app_link: "http://cryptomania-kenjiong.vercel.app/",
-    source_code_link: "https://github.com/",
+    app_link: "http://kenjiong.me/",
+    source_code_link: "https://github.com/kenjiong/Personal-Portfolio-Website",
   },
   {
     name: "FinViewX",
