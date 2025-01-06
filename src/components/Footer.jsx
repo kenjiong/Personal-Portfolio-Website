@@ -43,9 +43,6 @@ const Footer = () => {
             />
           </a>
         </div>
-        <div className="text-white text-[14px] md:text-[16px] opacity-70">
-          Last updated: 5 Nov 2024
-        </div>
       </div>
     </footer>
   );
